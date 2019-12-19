@@ -5,7 +5,7 @@ const connect = require('../lib/utils/connect');
 const mongoose = require('mongoose');
 const User = require('../lib/models/User');
 
-describe('app routes', () => {
+describe('auth routes', () => {
   beforeAll(() => {
     connect();
   });
