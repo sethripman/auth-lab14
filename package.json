@@ -2,6 +2,10 @@
   "name": "sethripman",
   "version": "1.0.0",
   "description": "butts",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/sethripman/auth-lab14.git"
+  },
   "main": "server.js",
   "scripts": {
     "test": "jest --verbose --runInBand",
